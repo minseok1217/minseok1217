@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%Minseok&color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%Minseok&color=random)
 
 
 
